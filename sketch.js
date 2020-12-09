@@ -467,9 +467,9 @@ function draw() {
    if(xfundo4<width){
       xfundo4-=1;
    }
-   x90-=3; 
-   x10-=3;
-   x50-=3;
+   x90-=1.5; 
+   x10-=1.5;
+   x50-=1.5;
     
     //animação personagem
   pers++;
@@ -486,11 +486,11 @@ function draw() {
       xmulta10-=2;
   }
   if(xmulta11<700){
-     xmulta11-=1;
+     xmulta11-=3;
   }
     //Cupom de desconto
   if(xdesc7<800){
-     xdesc7-=1;
+     xdesc7-=2;
   } 
   
     //choque
