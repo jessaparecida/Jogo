@@ -1,6 +1,6 @@
 /* Vídeo explicativo Unidade 2: https://youtu.be/Q3ohO1XUVoY
-   Vídeo explicativo Unidade 3: 
-   Vídeo Gamer: 
+   Vídeo explicativo Unidade 3: https://youtu.be/XVJMild4KuE
+   Vídeo Gamer: https://youtu.be/li7liAfBQ7w
 */
 //var Menu
 var y= 200;
