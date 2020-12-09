@@ -363,8 +363,8 @@ function draw() {
   } 
     //choque
    if(xpers===xdesc3 && ypers===ydesc3||xpers===xdesc4 &&ypers===ydesc4){
-      xperg3=20;
-      yperg3=80;
+      xperg2=20;
+      yperg2=80;
    }
 
     if(xpers===xmulta3 && ypers===ymulta3||xpers===xmulta4 && ypers===ymulta4||xpers===xmulta5 && ypers===ymulta5){
@@ -431,8 +431,8 @@ function draw() {
   } 
     //choque
    if(xpers===xdesc5 && ypers===ydesc5||xpers===xdesc6 &&ypers===ydesc6){
-      xperg4=20;
-      yperg4=80;
+      xperg3=20;
+      yperg3=80;
    }
 
     if(xpers===xmulta6 && ypers===ymulta6||xpers===xmulta7 && ypers===ymulta7||xpers===xmulta8 && ypers===ymulta8){
@@ -495,8 +495,8 @@ function draw() {
   
     //choque
    if(xpers===xdesc7 && ypers===ydesc7){
-      xperg5=20;
-      yperg5=80;
+      xperg4=20;
+      yperg4=80;
    }
 
     if(xpers===xmulta9 && ypers===ymulta9||xpers===xmulta10 && ypers===ymulta10||xpers===xmulta11 && ypers===ymulta11){
