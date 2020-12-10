@@ -522,7 +522,7 @@ if(tela===2){
    background(220);
    textSize(20);
    text('INSTRUÇÕES',50,50);
-   text('O jogador precisa pular toda vez que ver uma notificação de multa, ou perde moeda e retorna ao inicio. Ganha 1 moeda quando recolhe todos os cupons de desconto da fase, e assim passa de fase. Para pular, aperta Up(seta para cima).',50,100, 500,350);
+   text('O jogador precisa desviar toda vez que ver uma notificação de multa, ou perde moeda e retorna ao inicio. Ganha 1 moeda quando recolhe o cupom de desconto da fase e responde a pergunta corretamente, assim passa de fase. Para desviar, aperta Up(seta para cima) ou down(seta para baixo).',50,100, 500,350);
   text('A Notificação de Multa:',50,250);
   text('O Cupom de Desconto:',350,250);
   image(imgAum,110,260);
